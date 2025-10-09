@@ -48,7 +48,7 @@ if not vim.loop and not vim.loop.fs_stat(lazypath) then
 							light = 'latte',
 							dark  = 'mocha',
 						},
-						transparent_background = false,
+						transparent_background = true,
 						term_colors = true,
 						integrations = {
 							telescope = true,
