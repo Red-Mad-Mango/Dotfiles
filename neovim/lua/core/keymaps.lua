@@ -20,7 +20,9 @@ map('n', '<Leader>sc', '<C-w>c', opts)
 -- File actions
 map('n', '<Space>w', ':w<CR>', opts)
 map('n', '<Space>q', ':q<CR>', opts)
-map('n', '<Space>e', ':Explore<CR>', opts)
+--neotree toggles
+map('n', '<Leader>e', ':Neotree toggle filesystem reveal<CR>', opts)
+
 
 
 

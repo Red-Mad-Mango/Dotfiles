@@ -30,4 +30,10 @@ if not vim.loop.fs_stat(lazypath) then
 
 						  -- Telescope (org‑only)
 	require('plugins.telescope'),
+
+						  --nui
+						  require('plugins.nui'),
+
+						  --Neo-Tree
+						  require('plugins.file_explorer'),
 	})
