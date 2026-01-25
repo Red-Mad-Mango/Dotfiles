@@ -1,0 +1,57 @@
+#+title: Apps
+#+date: <2026-01-25 Sun>
+#+author: Red-Mad-Mango
+#+description: Linux apps that i use daily.
+
+* Table of Content :toc:
+- [[#distribution][Distribution]]
+- [[#browsers][Browsers]]
+- [[#music--video][Music & Video]]
+- [[#creative][Creative]]
+- [[#game-launcher][Game launcher]]
+- [[#utility][Utility]]
+- [[#password-manager][Password Manager]]
+- [[#editor][Editor]]
+
+* Distribution
++ [[https://fedoraproject.org/][Fedora Workstation]]
+
+* Browsers
++ [[https://www.firefox.com/en-US/][Firefox]]
++ [[https://mullvad.net/en/browser][Mullvad]]
++ [[https://brave.com/download/][Brave]]
+
+* Music & Video
++ [[https://cmus.github.io/][Cmus]]
++ [[https://github.com/wwmm/easyeffects][easy effect]]
++ [[https://flathub.org/en/apps/app.drey.EarTag][ear tag]]
++ [[https://flathub.org/en/apps/com.rafaelmardojai.Blanket][blanket]]
+
+* Creative
++ [[https://www.darktable.org/][darktable]]
++ [[https://www.gimp.org/][gimp]]
++ [[https://kdenlive.org/][kdenlive]]
++ [[https://inkscape.org/][inkscape]]
+
+* Game launcher
++ [[https://heroicgameslauncher.com/][heroic game launcher]]
+
+* Utility
++ [[https://flathub.org/en/apps/com.github.tchx84.Flatseal][flatseal]]
++ [[https://flathub.org/en/apps/com.mattjakeman.ExtensionManager][extension manager]]
++ [[https://gitlab.gnome.org/GNOME/gnome-tweaks][tweaks]]
++ [[https://apps.gnome.org//Papers/][document viewer]]
++ [[https://apps.gnome.org/Loupe/][image viewer]]
++ [[https://flathub.org/en/apps/io.gitlab.theevilskeleton.Upscaler][upscaler]]
++ [[https://apps.gnome.org/Converter/][switcheroo]]
++ [[https://flathub.org/en/apps/com.github.huluti.Curtail][curtail]]
++ [[https://github.com/pdfarranger/pdfarranger][pdf arranger]]
++ [[https://flathub.org/en/apps/io.github.alainm23.planify][planify]]
++ [[https://github.com/karlstav/cava][cava]]
+
+* Password Manager
++ [[https://keepassxc.org/][keepassxc]]
+
+* Editor
++ [[https://github.com/doomemacs/doomemacs][Doom emacs]]
++ [[https://neovim.io/][Nvim]]
