@@ -10,5 +10,5 @@
 *** [[https://github.com/Red-Mad-Mango/Dotfiles/tree/main/Wallpapers/Minimal][Minimal]]
 *** [[https://github.com/Red-Mad-Mango/Dotfiles/tree/main/Wallpapers/Paintings][Paintings]]
 
-* [[app][Android Apps]]
+* [[https://github.com/Red-Mad-Mango/Dotfiles/blob/main/software_list/Android/androidApps.org][Android Apps]]
 * [[https://github.com/Red-Mad-Mango/Dotfiles/blob/main/software_list/Linux/linuxApps.org][Linux Apps]]
