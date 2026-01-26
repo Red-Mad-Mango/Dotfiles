@@ -1,0 +1,14 @@
+#+title: Readme
+#+author: Red-Mad-Mango
+
+* Wallpapers
+*** [[https://github.com/Red-Mad-Mango/Dotfiles/tree/main/Wallpapers/Catppuccin][Catppuccin]]
+*** [[https://github.com/Red-Mad-Mango/Dotfiles/tree/main/Wallpapers/Everforest%20][Everforest]]
+*** [[https://github.com/Red-Mad-Mango/Dotfiles/tree/main/Wallpapers/Gruvbox][Gruvbox]]
+*** [[https://github.com/Red-Mad-Mango/Dotfiles/tree/main/Wallpapers/MacTahoe][MacTahoe]]
+*** [[https://github.com/Red-Mad-Mango/Dotfiles/tree/main/Wallpapers/Magnet%20Balls][Magnet Balls]]
+*** [[https://github.com/Red-Mad-Mango/Dotfiles/tree/main/Wallpapers/Minimal][Minimal]]
+*** [[https://github.com/Red-Mad-Mango/Dotfiles/tree/main/Wallpapers/Paintings][Paintings]]
+
+* [[app][Android Apps]]
+* [[https://github.com/Red-Mad-Mango/Dotfiles/blob/main/software_list/Linux/linuxApps.org][Linux Apps]]
