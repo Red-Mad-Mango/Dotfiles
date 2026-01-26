@@ -1,0 +1,89 @@
+#+title: androidApps
+#+date: <2026-01-26 Mon>
+#+author: Red-Mad-Mango
+#+Description: Android Apps that i use Daily.
+
+* Table of Content :toc:
+- [[#browsers][Browsers]]
+- [[#multimedia][Multimedia]]
+- [[#messaging][Messaging]]
+- [[#notes--texts][Notes & Texts]]
+- [[#file-manager][File Manager]]
+- [[#app-store][App Store]]
+- [[#password-manager][Password Manager]]
+- [[#utilities][Utilities]]
+- [[#weather][Weather]]
+- [[#firewall][Firewall]]
+- [[#dns][DNS]]
+- [[#keyboard][Keyboard]]
+- [[#maps][Maps]]
+- [[#mail--storage][Mail & Storage]]
+- [[#youtube][YouTube]]
+- [[#gallery--images][Gallery & Images]]
+- [[#authenticator][Authenticator]]
+
+* Browsers
+ + [[https://brave.com/download/][Brave]]
+ + [[https://gitlab.com/ironfox-oss/IronFox][ironfox]]
+
+* Multimedia
+ + [[https://github.com/OxygenCobalt/Auxio][Auxio]]
+ + [[https://github.com/moneytoo/Player][just player]]
+ + [[https://github.com/FossifyOrg/Voice-Recorder][voice recorder]]
+
+* Messaging
+ + [[https://simplex.chat/][SimpleX]]
+ + [[https://signal.org/#signal][Signal]]
+
+* Notes & Texts
+ + [[https://github.com/maelchiotti/LocalMaterialNotes][Material Notes]]
+ + [[https://beautyxt.app/][beauTyXT]]
+
+* File Manager
+ + [[https://github.com/FossifyOrg/File-Manager][Fossify File Manager]]
+
+* App Store
+ + [[https://accrescent.app/][Accrescent]]
+ + [[https://obtainium.imranr.dev/][Obtainium]]
+
+* Password Manager
+ + [[https://www.keepassdx.com/][Keepassdx]]
+
+* Utilities
+ + [[https://github.com/soupslurpr/AppVerifier][App Verifier]]
+ + [[https://github.com/Tommy-Geenexus/exif-eraser?tab=readme-ov-file][Exif Erasor]]
+ + [[https://exodus-privacy.eu.org/en/][Exodus]]
+ + [[https://github.com/cyb3rko/flashdim][Flash Dim]]
+ + [[https://github.com/clementwzk/OpenCalc?tab=readme-ov-file][Open Calc]]
+ + [[https://localsend.org/][Local Send]]
+ + [[https://github.com/GrapheneOS/PdfViewer][PDF Viewer]]
+ + [[https://github.com/TrianguloY/URLCheck][URL Check]]
+
+* Weather
+ + [[https://github.com/breezy-weather/breezy-weather][Breezy Weather]]
+
+* Firewall
+ + [[https://rethinkdns.com/][Rethink-Firewall]]
+
+* DNS
+ + [[https://nextdns.io/][NextDNS]]
+
+* Keyboard
+ + [[https://keyboard.futo.org/][FUTO Keyboard]]
+
+* Maps
+ + [[https://www.comaps.app/][CoMaps]]
+
+* Mail & Storage
+ + [[https://mail.proton.me/][Proton Mail]]
+ + [[https://proton.me/drive][Proton Drive]]
+
+* YouTube
+ + [[https://github.com/polymorphicshade/Tubular][Tubular]]
+
+* Gallery & Images
+ + [[https://github.com/deckerst/aves][Aves Gallery Libre]]
+ + [[https://github.com/T8RIN/ImageToolbox][Image Toolbox]]
+
+* Authenticator
+ + [[https://getaegis.app/][Aegis]]
