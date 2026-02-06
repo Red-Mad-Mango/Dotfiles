@@ -19,7 +19,7 @@ return {
 			orgmode = true,
 		},
 	})
-	vim.cmd('colorscheme catppuccin')
+--	vim.cmd('colorscheme catppuccin')
 
 	-- Customize Line Number Colors
 	vim.cmd([[highlight LineNr guifg=#CBA6F7]])      -- Absolute line numbers
