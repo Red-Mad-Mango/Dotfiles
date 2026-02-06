@@ -1,0 +1,20 @@
+include colors.conf
+
+#shell
+shell /usr/bin/bash
+
+#fonts
+font_family  JetBrainsMono Nerd Font
+bold_font    JetBrainsMono Nerd Font Bold
+italic_font  JetBrainsMono Nerd Font Italic
+bold_italic_font  JetBrainsMono Nerd Font Bold Italic
+
+font_size 16
+
+#transparancy
+background_opacity 0.6
+background_blur  2
+
+#windows
+window_border_width 2pt
+window_margin_width 4
