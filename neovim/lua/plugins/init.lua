@@ -12,6 +12,7 @@ if not vim.loop.fs_stat(lazypath) then
 	require('lazy').setup({
 		-- Theme
 		require('plugins.catppuccin'),
+    require('plugins.doom-one'),
 
 						  -- Org‑mode & Roam
 						  require('plugins.orgmode'),
