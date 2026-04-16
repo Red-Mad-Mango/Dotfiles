@@ -1,4 +1,4 @@
-#+title: Apps
+#+title: LinuxApps
 #+date: <2026-01-25 Sun>
 #+author: Red-Mad-Mango
 #+description: Linux apps that i use daily.
@@ -12,6 +12,8 @@
 - [[#utility][Utility]]
 - [[#password-manager][Password Manager]]
 - [[#editor][Editor]]
+- [[#geography][Geography]]
+- [[#documents][Documents]]
 
 * Distribution
 + [[https://fedoraproject.org/][Fedora Workstation]]
@@ -26,6 +28,9 @@
 + [[https://github.com/wwmm/easyeffects][easy effect]]
 + [[https://flathub.org/en/apps/app.drey.EarTag][ear tag]]
 + [[https://flathub.org/en/apps/com.rafaelmardojai.Blanket][blanket]]
++ [[https://github.com/diegopvlk/Cine][Cine]]
++ [[https://apps.gnome.org//Constrict/][Constrict]]
++ [[https://github.com/karlstav/cava][cava]]
 
 * Creative
 + [[https://www.darktable.org/][darktable]]
@@ -47,7 +52,7 @@
 + [[https://flathub.org/en/apps/com.github.huluti.Curtail][curtail]]
 + [[https://github.com/pdfarranger/pdfarranger][pdf arranger]]
 + [[https://flathub.org/en/apps/io.github.alainm23.planify][planify]]
-+ [[https://github.com/karlstav/cava][cava]]
++ [[https://localsend.org/][Local Send]]
 
 * Password Manager
 + [[https://keepassxc.org/][keepassxc]]
@@ -55,3 +60,10 @@
 * Editor
 + [[https://github.com/doomemacs/doomemacs][Doom emacs]]
 + [[https://neovim.io/][Nvim]]
+
+* Geography
++ [[https://github.com/nacho/mundi][Mundi]]
+
+* Documents
++ [[https://www.libreoffice.org/][LibreOffice]]
++ [[https://apps.gnome.org/Apostrophe/][Apostrophe]]

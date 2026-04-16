@@ -21,6 +21,8 @@
 - [[#youtube][YouTube]]
 - [[#gallery--images][Gallery & Images]]
 - [[#authenticator][Authenticator]]
+- [[#clock--calendar][Clock & Calendar]]
+- [[#camera][Camera]]
 
 * Browsers
  + [[https://brave.com/download/][Brave]]
@@ -32,12 +34,11 @@
  + [[https://github.com/FossifyOrg/Voice-Recorder][voice recorder]]
 
 * Messaging
- + [[https://simplex.chat/][SimpleX]]
  + [[https://signal.org/#signal][Signal]]
 
 * Notes & Texts
- + [[https://github.com/maelchiotti/LocalMaterialNotes][Material Notes]]
  + [[https://beautyxt.app/][beauTyXT]]
+ + [[https://github.com/orgzly-revived/orgzly-android-revived][Orgzly Revived]]
 
 * File Manager
  + [[https://github.com/FossifyOrg/File-Manager][Fossify File Manager]]
@@ -45,6 +46,8 @@
 * App Store
  + [[https://accrescent.app/][Accrescent]]
  + [[https://obtainium.imranr.dev/][Obtainium]]
+ + [[https://github.com/GrapheneOS/AppStore/releases][GrapheneOS Appstore]]
+
 
 * Password Manager
  + [[https://www.keepassdx.com/][Keepassdx]]
@@ -87,3 +90,10 @@
 
 * Authenticator
  + [[https://getaegis.app/][Aegis]]
+
+* Clock & Calendar
++ [[https://github.com/FossifyOrg/Clock][Fossify clock]]
++ [[https://github.com/FossifyOrg/Calendar][Fossify Calendar]]
+
+* Camera
++ [[https://github.com/GrapheneOS/Camera/releases][GrapheneOS Camera]]
