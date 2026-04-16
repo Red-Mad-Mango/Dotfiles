@@ -3,9 +3,8 @@
 
 * Wallpapers
 ** [[https://github.com/Red-Mad-Mango/Dotfiles/tree/main/Wallpapers/Catppuccin][Catppuccin]]
-[[https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Catppuccin/C01.jpg]]
-
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Catppuccin/C01.jpg" width="300" alt="Description">
+#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Catppuccin/C01.jpg" width="300" alt="C01">
+#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Catppuccin/C02.png" width="300" alt="C02">
 ** [[https://github.com/Red-Mad-Mango/Dotfiles/tree/main/Wallpapers/Everforest%20][Everforest]]
 ** [[https://github.com/Red-Mad-Mango/Dotfiles/tree/main/Wallpapers/Gruvbox][Gruvbox]]
 ** [[https://github.com/Red-Mad-Mango/Dotfiles/tree/main/Wallpapers/MacTahoe][MacTahoe]]
