@@ -1,0 +1,6 @@
+#+title: WAVtoFlac
+#+description: To convert WAV file to FLAC in ffmpeg
+
+#+begin_src
+for file in *.wav; do ffmpeg -i "$file" -c:a flac "${file%.wav}.flac"; done
+#+end_src

@@ -1,0 +1,6 @@
+#+title: Yt Dlp Playlist Download
+#+description: To download Muisc playlist using yt-dlp.
+
+#+begin_src
+yt-dlp -x --audio-format flac --yes-playlist -o "%(playlist)s/%(playlist_index)s - %(title)s.%(ext)s" -P ~/Music "https://youtube.com/playlist?list"
+#+end_src
