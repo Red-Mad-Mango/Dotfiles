@@ -3,8 +3,9 @@
 
 * Wallpapers
 ** [[https://github.com/Red-Mad-Mango/Dotfiles/tree/main/Wallpapers/Catppuccin][Catppuccin]]
-#+ATTR_ORG: :width 400 :caption "C01"
 [[https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Catppuccin/C01.jpg]]
+
+#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Catppuccin/C01.jpg" width="300" alt="Description">
 ** [[https://github.com/Red-Mad-Mango/Dotfiles/tree/main/Wallpapers/Everforest%20][Everforest]]
 ** [[https://github.com/Red-Mad-Mango/Dotfiles/tree/main/Wallpapers/Gruvbox][Gruvbox]]
 ** [[https://github.com/Red-Mad-Mango/Dotfiles/tree/main/Wallpapers/MacTahoe][MacTahoe]]
