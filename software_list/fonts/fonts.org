@@ -1,0 +1,17 @@
+#+title: Fonts
+#+date: <2026-04-21 Tue>
+#+author: Red-Mad-Mango
+#+Description: Fonts that i use Daily.
+
+* Fonts
++ [[https://fonts.google.com/specimen/Bodoni+Moda?preview.script=Latn][Bodoni-Moda]]
++ [[https://fonts.google.com/specimen/EB+Garamond][Eb-Garamond]]
++ [[https://fonts.google.com/specimen/Libertinus+Sans][Libertinus-Sans]]
++ [[https://fonts.google.com/specimen/Libertinus+Serif?query=libertinus+serif][Libertinus-Serif]]
++ [[https://fonts.google.com/specimen/Libre+Caslon+Text?preview.script=Latn][Libre-Caslon-Text]]
++ [[https://fonts.google.com/specimen/Merriweather?query=me][MerriWeather]]
++ [[https://fonts.google.com/specimen/Playfair+Display?query=playfair+display][Playfair-Display]]
++ [[https://fonts.google.com/specimen/Roboto?query=Roboto][Roboto]]
++ [[https://fonts.google.com/specimen/Roboto+Serif?query=Roboto+serif][Roboto-Serif]]
++ [[https://fonts.google.com/specimen/Victor+Mono][Victor-Mono]]
++ [[https://www.gust.org.pl/projects/e-foundry/tex-gyre/whole][Tex-Gyre-Collection]]
