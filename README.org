@@ -206,7 +206,33 @@
 ** [[https://github.com/Red-Mad-Mango/Dotfiles/tree/main/Wallpapers/Everforest%20][Everforest]]
 #+HTML: <details>
 #+HTML: <summary>Click to view image</summary>
-#+HTML: <img src="" width="300" alt="Image 3">
+#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Everforest%20/E01.jpg" width="300" alt="E01">
+#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Everforest%20/E02.jpg" width="300" alt="E02">
+#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Everforest%20/E03.jpg" width="300" alt="E03">
+#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Everforest%20/E04.jpg" width="300" alt="E04">
+#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Everforest%20/E05.jpg" width="300" alt="E05">
+#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Everforest%20/E06.jpg" width="300" alt="E06">
+#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Everforest%20/E07.jpg" width="300" alt="E07">
+#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Everforest%20/E08.jpg" width="300" alt="E08">
+#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Everforest%20/E09.png" width="300" alt="E09">
+#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Everforest%20/E10.png" width="300" alt="E10">
+#+HTML: <img src="" width="300" alt="E01">
+#+HTML: <img src="" width="300" alt="E01">
+#+HTML: <img src="" width="300" alt="E01">
+#+HTML: <img src="" width="300" alt="E01">
+#+HTML: <img src="" width="300" alt="E01">
+#+HTML: <img src="" width="300" alt="E01">
+#+HTML: <img src="" width="300" alt="E01">
+#+HTML: <img src="" width="300" alt="E01">
+#+HTML: <img src="" width="300" alt="E01">
+#+HTML: <img src="" width="300" alt="E01">
+#+HTML: <img src="" width="300" alt="E01">
+#+HTML: <img src="" width="300" alt="E01">
+#+HTML: <img src="" width="300" alt="E01">
+#+HTML: <img src="" width="300" alt="E01">
+#+HTML: <img src="" width="300" alt="E01">
+#+HTML: <img src="" width="300" alt="E01">
+#+HTML: <img src="" width="300" alt="E01">
 #+HTML: </details>
 ** [[https://github.com/Red-Mad-Mango/Dotfiles/tree/main/Wallpapers/Gruvbox][Gruvbox]]
 #+HTML: <details>
