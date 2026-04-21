@@ -1,2 +1,0 @@
-for file in *.wav; do ffmpeg -i "$file" -c:a flac "${file%.wav}.flac"; done
-

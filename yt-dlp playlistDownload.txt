@@ -1,1 +1,0 @@
-yt-dlp -x --audio-format wav --yes-playlist -o "%(playlist)s/%(playlist_index)s - %(title)s.%(ext)s" -P ~/Music "https://youtube.com/playlist?list"

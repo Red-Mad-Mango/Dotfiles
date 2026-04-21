@@ -225,7 +225,21 @@
 ** [[https://github.com/Red-Mad-Mango/Dotfiles/tree/main/Wallpapers/Magnet%20Balls][Magnet Balls]]
 #+HTML: <details>
 #+HTML: <summary>Click to view image</summary>
-#+HTML: <img src="" width="300" alt="Image 3">
+#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Magnet%20Balls/b01.png" width="300" alt="b01">
+#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Magnet%20Balls/b02.png" width="300" alt="b02">
+#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Magnet%20Balls/b03.png" width="300" alt="b03">
+#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Magnet%20Balls/b04.png" width="300" alt="b04">
+#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Magnet%20Balls/b05.png" width="300" alt="b05">
+#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Magnet%20Balls/b06.png" width="300" alt="b06">
+#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Magnet%20Balls/b07.png" width="300" alt="b07">
+#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Magnet%20Balls/b08.png" width="300" alt="b08">
+#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Magnet%20Balls/b09.png" width="300" alt="b09">
+#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Magnet%20Balls/b10.png" width="300" alt="b10">
+#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Magnet%20Balls/b11.png" width="300" alt="b11">
+#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Magnet%20Balls/b12.png" width="300" alt="b12">
+#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Magnet%20Balls/b13.png" width="300" alt="b13">
+#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Magnet%20Balls/b14.png" width="300" alt="b14">
+#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Magnet%20Balls/b15.png" width="300" alt="b15">
 #+HTML: </details>
 ** [[https://github.com/Red-Mad-Mango/Dotfiles/tree/main/Wallpapers/Minimal][Minimal]]
 #+HTML: <details>
