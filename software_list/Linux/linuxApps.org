@@ -19,18 +19,19 @@
 + [[https://fedoraproject.org/][Fedora Workstation]]
 
 * Browsers
-+ [[https://www.firefox.com/en-US/][Firefox]]
-+ [[https://mullvad.net/en/browser][Mullvad]]
 + [[https://brave.com/download/][Brave]]
++ [[https://github.com/secureblue/Trivalent][Trivalent]]
++ [[https://zen-browser.app/][Zen-browser]]
 
 * Music & Video
 + [[https://cmus.github.io/][Cmus]]
 + [[https://github.com/wwmm/easyeffects][easy effect]]
 + [[https://flathub.org/en/apps/app.drey.EarTag][ear tag]]
 + [[https://flathub.org/en/apps/com.rafaelmardojai.Blanket][blanket]]
-+ [[https://github.com/diegopvlk/Cine][Cine]]
++ [[https://apps.gnome.org/Showtime/][Showtime]]
+# + [[https://github.com/diegopvlk/Cine][Cine]]
 + [[https://apps.gnome.org//Constrict/][Constrict]]
-+ [[https://github.com/karlstav/cava][cava]]
+# + [[https://github.com/karlstav/cava][cava]]
 
 * Creative
 + [[https://www.darktable.org/][darktable]]
@@ -39,7 +40,7 @@
 + [[https://inkscape.org/][inkscape]]
 
 * Game launcher
-+ [[https://heroicgameslauncher.com/][heroic game launcher]]
+# + [[https://heroicgameslauncher.com/][heroic game launcher]]
 
 * Utility
 + [[https://flathub.org/en/apps/com.github.tchx84.Flatseal][flatseal]]
@@ -51,7 +52,7 @@
 + [[https://apps.gnome.org/Converter/][switcheroo]]
 + [[https://flathub.org/en/apps/com.github.huluti.Curtail][curtail]]
 + [[https://github.com/pdfarranger/pdfarranger][pdf arranger]]
-+ [[https://flathub.org/en/apps/io.github.alainm23.planify][planify]]
+# + [[https://flathub.org/en/apps/io.github.alainm23.planify][planify]]
 + [[https://localsend.org/][Local Send]]
 
 * Password Manager

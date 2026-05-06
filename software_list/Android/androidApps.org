@@ -26,11 +26,11 @@
 
 * Browsers
  + [[https://brave.com/download/][Brave]]
- + [[https://gitlab.com/ironfox-oss/IronFox][ironfox]]
+ # + [[https://gitlab.com/ironfox-oss/IronFox][ironfox]]
 
 * Multimedia
  + [[https://github.com/OxygenCobalt/Auxio][Auxio]]
- + [[https://github.com/moneytoo/Player][just player]]
+ # + [[https://github.com/moneytoo/Player][just player]]
  + [[https://github.com/FossifyOrg/Voice-Recorder][voice recorder]]
 
 * Messaging
@@ -56,7 +56,7 @@
  + [[https://github.com/soupslurpr/AppVerifier][App Verifier]]
  + [[https://github.com/Tommy-Geenexus/exif-eraser?tab=readme-ov-file][Exif Erasor]]
  + [[https://exodus-privacy.eu.org/en/][Exodus]]
- + [[https://github.com/cyb3rko/flashdim][Flash Dim]]
+ # + [[https://github.com/cyb3rko/flashdim][Flash Dim]]
  + [[https://github.com/clementwzk/OpenCalc?tab=readme-ov-file][Open Calc]]
  + [[https://localsend.org/][Local Send]]
  + [[https://github.com/GrapheneOS/PdfViewer][PDF Viewer]]
