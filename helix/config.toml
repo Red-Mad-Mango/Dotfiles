@@ -1,0 +1,17 @@
+theme = "doom-one"
+
+[editor]
+line-number = "relative"
+true-color = true
+bufferline = "always"
+soft-wrap = { enable = true }
+
+[editor.indent-guides]
+render = true
+character = "┆"
+
+[editor.whitespace]
+render = "all"
+characters = { space = "·", nbsp = "⍽", tab = "→", newline = "↵" }
+
+

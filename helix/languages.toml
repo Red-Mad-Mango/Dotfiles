@@ -1,0 +1,23 @@
+[[language]]
+name = "python"
+language-servers = ["ruff"]
+auto-format = true
+
+[language-server.ruff]
+command = "ruff"
+args = ["server"]
+
+[language.formatter]
+command = "ruff"
+args = ["format", "-"]
+
+# Add markdown configuration here
+[[language]]
+name = "markdown"
+scope = "source.markdown"
+file-types = ["md", "markdown"]
+roots = []
+comment-token = "<!--"
+indent = { tab-width = 2, unit = "  " }
+soft-wrap.enable = true
+soft-wrap.wrap-at-text-width = false
