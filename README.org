@@ -5,18 +5,6 @@
 ** [[https://github.com/Red-Mad-Mango/Dotfiles/tree/main/Wallpapers/Catppuccin][Catppuccin]]
 #+HTML: <details>
 #+HTML: <summary>Click to view image</summary>
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Catppuccin/C01.jpg" width="300" alt="C01">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Catppuccin/C02.png" width="300" alt="C02">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Catppuccin/C03.png" width="300" alt="C03">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Catppuccin/C04.jpg" width="300" alt="C04">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Catppuccin/C05.png" width="300" alt="C05">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Catppuccin/C06.png" width="300" alt="C06">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Catppuccin/C07.jpg" width="300" alt="C07">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Catppuccin/C08.jpg" width="300" alt="C08">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Catppuccin/C09.jpg" width="300" alt="C09">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Catppuccin/C10.jpg" width="300" alt="C10">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Catppuccin/C11.jpg" width="300" alt="C11">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Catppuccin/C12.jpg" width="300" alt="C12">
 #+HTML: <img src="" width="300" alt="Image 3">
 #+HTML: <img src="" width="300" alt="Image 3">
 #+HTML: <img src="" width="300" alt="Image 3">
@@ -206,26 +194,7 @@
 ** [[https://github.com/Red-Mad-Mango/Dotfiles/tree/main/Wallpapers/Everforest%20][Everforest]]
 #+HTML: <details>
 #+HTML: <summary>Click to view image</summary>
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Everforest%20/E01.jpg" width="300" alt="E01">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Everforest%20/E02.jpg" width="300" alt="E02">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Everforest%20/E03.jpg" width="300" alt="E03">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Everforest%20/E04.jpg" width="300" alt="E04">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Everforest%20/E05.jpg" width="300" alt="E05">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Everforest%20/E06.jpg" width="300" alt="E06">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Everforest%20/E07.jpg" width="300" alt="E07">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Everforest%20/E08.jpg" width="300" alt="E08">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Everforest%20/E09.png" width="300" alt="E09">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Everforest%20/E10.png" width="300" alt="E10">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Everforest%20/E11.jpg" width="300" alt="E11">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Everforest%20/E12.png" width="300" alt="E12">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Everforest%20/E13.jpg" width="300" alt="E13">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Everforest%20/E14.jpg" width="300" alt="E14">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Everforest%20/E15.png" width="300" alt="E15">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Everforest%20/E16.png" width="300" alt="E16">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Everforest%20/E17.jpg" width="300" alt="E17">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Everforest%20/E18.png" width="300" alt="E18">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Everforest%20/E19.jpg" width="300" alt="E19">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Everforest%20/E20.png" width="300" alt="E20">
+
 #+HTML: <img src="" width="300" alt="E01">
 #+HTML: <img src="" width="300" alt="E01">
 #+HTML: <img src="" width="300" alt="E01">
@@ -242,63 +211,22 @@
 ** [[https://github.com/Red-Mad-Mango/Dotfiles/tree/main/Wallpapers/MacTahoe][MacTahoe]]
 #+HTML: <details>
 #+HTML: <summary>Click to view image</summary>
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/MacTahoe/m01.png" width="300" alt="m01">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/MacTahoe/m02.png" width="300" alt="m02">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/MacTahoe/m03.jpg" width="300" alt="m03">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/MacTahoe/m04.jpg" width="300" alt="m04">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/MacTahoe/m05.jpg" width="300" alt="m05">
+
 #+HTML: </details>
 ** [[https://github.com/Red-Mad-Mango/Dotfiles/tree/main/Wallpapers/Magnet%20Balls][Magnet Balls]]
 #+HTML: <details>
 #+HTML: <summary>Click to view image</summary>
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Magnet%20Balls/b01.png" width="300" alt="b01">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Magnet%20Balls/b02.png" width="300" alt="b02">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Magnet%20Balls/b03.png" width="300" alt="b03">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Magnet%20Balls/b04.png" width="300" alt="b04">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Magnet%20Balls/b05.png" width="300" alt="b05">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Magnet%20Balls/b06.png" width="300" alt="b06">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Magnet%20Balls/b07.png" width="300" alt="b07">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Magnet%20Balls/b08.png" width="300" alt="b08">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Magnet%20Balls/b09.png" width="300" alt="b09">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Magnet%20Balls/b10.png" width="300" alt="b10">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Magnet%20Balls/b11.png" width="300" alt="b11">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Magnet%20Balls/b12.png" width="300" alt="b12">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Magnet%20Balls/b13.png" width="300" alt="b13">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Magnet%20Balls/b14.png" width="300" alt="b14">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Magnet%20Balls/b15.png" width="300" alt="b15">
+
 #+HTML: </details>
 ** [[https://github.com/Red-Mad-Mango/Dotfiles/tree/main/Wallpapers/Minimal][Minimal]]
 #+HTML: <details>
 #+HTML: <summary>Click to view image</summary>
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Minimal/M01.jpg" width="300" alt="M01">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Minimal/M02.jpg" width="300" alt="M02">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Minimal/M03.jpg" width="300" alt="M03">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Minimal/M04.jpg" width="300" alt="M04">
+
 #+HTML: </details>
 ** [[https://github.com/Red-Mad-Mango/Dotfiles/tree/main/Wallpapers/Paintings][Paintings]]
 #+HTML: <details>
 #+HTML: <summary>Click to view image</summary>
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Paintings/P01.jpg" width="300" alt="P01">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Paintings/P02.jpg" width="300" alt="P02">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Paintings/P03.jpg" width="300" alt="P03">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Paintings/P04.jpg" width="300" alt="P04">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Paintings/P05.jpg" width="300" alt="P05">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Paintings/P06.jpg" width="300" alt="P06">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Paintings/P07.jpg" width="300" alt="P07">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Paintings/P08.jpg" width="300" alt="P08">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Paintings/P09.jpg" width="300" alt="P09">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Paintings/P10.jpg" width="300" alt="P10">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Paintings/P11.jpg" width="300" alt="P11">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Paintings/P12.png" width="300" alt="P12">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Paintings/P13.jpg" width="300" alt="P13">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Paintings/P14.jpg" width="300" alt="P14">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Paintings/P15.jpg" width="300" alt="P15">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Paintings/P16.jpg" width="300" alt="P16">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Paintings/P17.jpg" width="300" alt="P17">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Paintings/P18.jpg" width="300" alt="P18">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Paintings/P19.jpg" width="300" alt="P19">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Paintings/P20.jpg" width="300" alt="P20">
-#+HTML: <img src="https://github.com/Red-Mad-Mango/Dotfiles/blob/main/Wallpapers/Paintings/P21.png" width="300" alt="P21">
+
 #+HTML: </details>
 
 * [[https://github.com/Red-Mad-Mango/Dotfiles/blob/main/software_list/Android/androidApps.org][Android Apps]]
