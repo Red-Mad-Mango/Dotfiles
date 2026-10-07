@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style-scheme id="focus-nova" version="1.0" name="focus-nova">
+	<description>Focus nova</description>
+
+	<!-- color values -->
+	<color name="bg1" value="#1E1E2E"/>
+	<color name="bg2" value="#2A2A3E"/>
+	<color name="bg3" value="#36364E"/>
+	<color name="fg1" value="#DCDCDC"/>
+	<color name="fg2" value="#C0C0C0"/>
+	<color name="fg3" value="#7A7A89"/>
+	<color name="hl1" value="#444460"/>
+	<color name="hl2" value="#525272"/>
+	<color name="hl3" value="#36364E"/>
+
+	<color name="c1" value="#F7768E"/>
+	<color name="c2" value="#E0AF68"/>
+	<color name="c3" value="#7DCFFF"/>
+	<color name="c4" value="#9ECE6A"/>
+	<color name="c5" value="#7AA2F7"/>
+	<color name="c6" value="#BB9AF7"/>
+
+	<!-- global -->
+	<style name="text"                         foreground="fg1" background="bg1"/>
+	<style name="selection"                    foreground="fg1" background="hl2"/>
+	<style name="cursor"                       foreground="fg1"/>
+	<style name="secondary-cursor"             foreground="fg1"/>
+	<style name="current-line"                 background="hl3"/>
+	<style name="current-line-number"          background="hl3" foreground="fg1" bold="false"/>
+	<style name="line-numbers"                 background="bg2" foreground="fg3"/>
+	<style name="draw-spaces"                  foreground="fg1"/>
+	<style name="background-pattern"           background="bg3"/>
+
+	<!-- defaults -->
+	<style name="def:base-n-integer"         foreground="c6"/>
+	<style name="def:boolean"                foreground="c6"/>
+	<style name="def:comment"                foreground="fg3"/>
+	<style name="def:constant"               foreground="c3"/>
+	<style name="def:decimal"                foreground="c6"/>
+	<style name="def:deletion"               strikethrough="true"/>
+	<style name="def:doc-comment-element"    italic="true"/>
+	<style name="def:emphasis"               italic="true"/>
+	<style name="def:error"                  foreground="c1"/>
+	<style name="def:floating-point"         foreground="c6"/>
+	<style name="def:function"               foreground="c1"/>
+	<style name="def:heading"                foreground="c4" bold="true"/>
+	<style name="def:identifier"             foreground="c3"/>
+	<style name="def:inline-code"            foreground="c6"/>
+	<style name="def:insertion"              underline="single"/>
+	<style name="def:keyword"                foreground="c4" bold="false"/>
+	<style name="def:link-destination"       foreground="c5" italic="false" underline="single"/>
+	<style name="def:link-symbol"            foreground="c3" bold="false"/>
+	<style name="def:link-text"              foreground="c3"/>
+	<style name="def:list-marker"            foreground="fg2" bold="false"/>
+	<style name="def:net-address"            italic="false" underline="single"/>
+	<style name="def:note"                   background="fg3" bold="false"/>
+	<style name="def:operator"               foreground="c3"/>
+	<style name="def:preformatted-section"   foreground="c2"/>
+	<style name="def:preprocessor"           foreground="c5"/>
+	<style name="def:shebang"                foreground="c1" bold="false"/>
+	<style name="def:special-char"           foreground="c1"/>
+	<style name="def:special-constant"       foreground="c3"/>
+	<style name="def:statement"              foreground="c4" bold="false"/>
+	<style name="def:string"                 foreground="c2"/>
+	<style name="def:strong-emphasis"        foreground="c1" bold="true"/>
+	<style name="def:thematic-break"         foreground="c4" bold="true"/>
+	<style name="def:type"                   foreground="c5" bold="false"/>
+	<style name="def:warning"                background="c1"/>
+
+	<!-- language specifics -->
+	<style name="c:boolean"                  foreground="c6"/>
+	<style name="c:comment"                  foreground="fg3"/>
+	<style name="c:enum-name"                foreground="c5" bold="false"/>
+	<style name="c:included-file"            foreground="c5"/>
+	<style name="c:keyword"                  foreground="c4" bold="false"/>
+	<style name="c:macro-name"               foreground="c1" bold="false"/>
+	<style name="c:preprocessor"             foreground="c5" bold="false"/>
+	<style name="c:storage-class"            foreground="c5" bold="false"/>
+	<style name="c:string"                   foreground="c2"/>
+	<style name="c:type"                     foreground="c5" bold="false"/>
+	<style name="js:built-in-constructor"    foreground="c5"/>
+	<style name="js:built-in-function"       foreground="c1"/>
+	<style name="js:built-in-method"         foreground="c1"/>
+	<style name="js:keyword"                 foreground="c4"/>
+	<style name="js:string"                  foreground="c2"/>
+	<style name="js:template-literal"        foreground="c2"/>
+	<style name="sh:variable"                foreground="c3"/>
+	<style name="sh:variable-definition"     foreground="c6"/>
+	<style name="python:builtin-object"      foreground="c3"/>
+	<style name="python:function-name"       foreground="c1"/>
+	<style name="python:keyword"             foreground="c4" bold="false"/>
+	<style name="python:module-handler"      foreground="c5" bold="false"/>
+	<style name="xml:attribute-name"         foreground="c6"/>
+	<style name="xml:element-name"           foreground="c4"/>
+
+	<!-- other ui -->
+	<style name="bracket-match"              underline="single"/>
+	<style name="bracket-mismatch"           foreground="fg1" background="c1"/>
+	<style name="right-margin"               foreground="fg1" background="bg2"/>
+	<style name="search-match"               foreground="fg1" background="hl2"/>
+</style-scheme>
